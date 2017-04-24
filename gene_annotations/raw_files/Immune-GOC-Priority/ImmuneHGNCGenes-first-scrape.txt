@@ -1,0 +1,2918 @@
+Genes with Priority Score of 16
+
+
+TLR4" title="TLR4">TLR4
+
+
+
+Genes with Priority Score of 15
+
+
+IL10" title="IL10">IL10
+
+TNF" title="TNF">TNF
+
+
+
+Genes with Priority Score of 14
+
+
+CCL2" title="CCL2">CCL2
+
+IL6" title="IL6">IL6
+
+MAPK14" title="MAPK14">MAPK14
+
+
+Genes with Priority Score of 13
+
+
+IFNB1" title="IFNB1">IFNB1
+
+IL4" title="IL4">IL4
+
+LCK" title="LCK">LCK
+
+NFKB1" title="NFKB1">NFKB1
+
+PTPRC" title="PTPRC">PTPRC
+
+SPP1" title="SPP1">SPP1
+
+TLR2" title="TLR2">TLR2
+
+ZAP70" title="ZAP70">ZAP70
+
+
+IL2" title="IL2">IL2
+
+IL6ST" title="IL6ST">IL6ST
+
+
+
+
+
+
+
+
+
+Genes with Priority Score of 12
+
+
+B2M" title="B2M">B2M
+
+CD14" title="CD14">CD14
+
+FYN" title="FYN">FYN
+
+IFNG" title="IFNG">IFNG
+
+IL12B" title="IL12B">IL12B
+
+IL1R1" title="IL1R1">IL1R1
+
+IL2RA" title="IL2RA">IL2RA
+
+STAT3" title="STAT3">STAT3
+
+
+C3" title="C3">C3
+
+CXCL12" title="CXCL12">CXCL12
+
+HLA-DQB1" title="HLA-DQB1">HLA-DQB1
+
+IKBKG" title="IKBKG">IKBKG
+
+
+
+
+
+
+Genes with Priority Score of 11
+
+
+ADA" title="ADA">ADA
+
+CASP8" title="CASP8">CASP8
+
+CD8A" title="CD8A">CD8A
+
+CTLA4" title="CTLA4">CTLA4
+
+FAS" title="FAS">FAS
+
+IKBKAP" title="IKBKAP">IKBKAP
+
+ITGAM" title="ITGAM">ITGAM
+
+NFKBIA" title="NFKBIA">NFKBIA
+
+
+BCL2" title="BCL2">BCL2
+
+CCR7" title="CCR7">CCR7
+
+CHUK" title="CHUK">CHUK
+
+CXCR3" title="CXCR3">CXCR3
+
+FCGR2B" title="FCGR2B">FCGR2B
+
+IL1B" title="IL1B">IL1B
+
+ITGB2" title="ITGB2">ITGB2
+
+RELA" title="RELA">RELA
+
+
+C5" title="C5">C5
+
+CD28" title="CD28">CD28
+
+CLU" title="CLU">CLU
+
+CXCR4" title="CXCR4">CXCR4
+
+HLA-DRA" title="HLA-DRA">HLA-DRA
+
+IL2RG" title="IL2RG">IL2RG
+
+MYD88" title="MYD88">MYD88
+
+TGFB1" title="TGFB1">TGFB1
+
+
+CASP3" title="CASP3">CASP3
+
+CD4" title="CD4">CD4
+
+CSF1R" title="CSF1R">CSF1R
+
+DPP4" title="DPP4">DPP4
+
+ICAM1" title="ICAM1">ICAM1
+
+IL7" title="IL7">IL7
+
+
+
+Genes with Priority Score of 10
+
+
+AIRE" title="AIRE">AIRE
+
+CASP2" title="CASP2">CASP2
+
+CD44" title="CD44">CD44
+
+GZMA" title="GZMA">GZMA
+
+IKBKE" title="IKBKE">IKBKE
+
+IRF1" title="IRF1">IRF1
+
+STAT1" title="STAT1">STAT1
+
+TLR1" title="TLR1">TLR1
+
+
+APP" title="APP">APP
+
+CCL5" title="CCL5">CCL5
+
+CD74" title="CD74">CD74
+
+HLA-A" title="HLA-A">HLA-A
+
+IL13" title="IL13">IL13
+
+ITGAX" title="ITGAX">ITGAX
+
+STAT2" title="STAT2">STAT2
+
+TNFRSF1B" title="TNFRSF1B">TNFRSF1B
+
+
+C1QBP" title="C1QBP">C1QBP
+
+CCR2" title="CCR2">CCR2
+
+CFB" title="CFB">CFB
+
+HLA-B" title="HLA-B">HLA-B
+
+IL1RN" title="IL1RN">IL1RN
+
+MASP2" title="MASP2">MASP2
+
+STAT5B" title="STAT5B">STAT5B
+
+TNFSF11" title="TNFSF11">TNFSF11
+
+
+C4A" title="C4A">C4A
+
+CCRL2" title="CCRL2">CCRL2
+
+CFH" title="CFH">CFH
+
+HLA-C" title="HLA-C">HLA-C
+
+IL4R" title="IL4R">IL4R
+
+MS4A1" title="MS4A1">MS4A1
+
+STAT6" title="STAT6">STAT6
+
+TRAF5" title="TRAF5">TRAF5
+
+
+C4B" title="C4B">C4B
+
+CD1D" title="CD1D">CD1D
+
+FCGR1A" title="FCGR1A">FCGR1A
+
+HLA-DQA1" title="HLA-DQA1">HLA-DQA1
+
+IL6R" title="IL6R">IL6R
+
+RAG1" title="RAG1">RAG1
+
+TCF7" title="TCF7">TCF7
+
+TRAF6" title="TRAF6">TRAF6
+
+
+CASP1" title="CASP1">CASP1
+
+CD24" title="CD24">CD24
+
+FCGR3A" title="FCGR3A">FCGR3A
+
+IKBKB" title="IKBKB">IKBKB
+
+IRAK1" title="IRAK1">IRAK1
+
+SERPING1" title="SERPING1">SERPING1
+
+TIRAP" title="TIRAP">TIRAP
+
+VCAM1" title="VCAM1">VCAM1
+
+
+CASP10" title="CASP10">CASP10
+
+
+
+
+
+
+
+
+
+
+
+Genes with Priority Score of 9
+
+
+BAX" title="BAX">BAX
+
+CD79B" title="CD79B">CD79B
+
+CTSS" title="CTSS">CTSS
+
+HLA-DMA" title="HLA-DMA">HLA-DMA
+
+IL18" title="IL18">IL18
+
+JAK1" title="JAK1">JAK1
+
+PECAM1" title="PECAM1">PECAM1
+
+THY1" title="THY1">THY1
+
+
+BST1" title="BST1">BST1
+
+CD82" title="CD82">CD82
+
+CX3CR1" title="CX3CR1">CX3CR1
+
+HLA-DMB" title="HLA-DMB">HLA-DMB
+
+IL18R1" title="IL18R1">IL18R1
+
+LCP2" title="LCP2">LCP2
+
+PPARG" title="PPARG">PPARG
+
+TLR3" title="TLR3">TLR3
+
+
+BST2" title="BST2">BST2
+
+CD83" title="CD83">CD83
+
+CXCL10" title="CXCL10">CXCL10
+
+HLA-DPA1" title="HLA-DPA1">HLA-DPA1
+
+IL1R2" title="IL1R2">IL1R2
+
+LILRB1" title="LILRB1">LILRB1
+
+PSMB5" title="PSMB5">PSMB5
+
+TLR5" title="TLR5">TLR5
+
+
+C1QA" title="C1QA">C1QA
+
+CD86" title="CD86">CD86
+
+CXCL2" title="CXCL2">CXCL2
+
+HLA-DPB1" title="HLA-DPB1">HLA-DPB1
+
+IL32" title="IL32">IL32
+
+LILRB3" title="LILRB3">LILRB3
+
+PSMB8" title="PSMB8">PSMB8
+
+TLR9" title="TLR9">TLR9
+
+
+C1R" title="C1R">C1R
+
+CD97" title="CD97">CD97
+
+CYBB" title="CYBB">CYBB
+
+IFNAR1" title="IFNAR1">IFNAR1
+
+IL5" title="IL5">IL5
+
+MAPK1" title="MAPK1">MAPK1
+
+RELB" title="RELB">RELB
+
+TNFRSF11A" title="TNFRSF11A">TNFRSF11A
+
+
+C9" title="C9">C9
+
+CEACAM1" title="CEACAM1">CEACAM1
+
+DEFB1" title="DEFB1">DEFB1
+
+IFNAR2" title="IFNAR2">IFNAR2
+
+IL7R" title="IL7R">IL7R
+
+MBL2" title="MBL2">MBL2
+
+SELE" title="SELE">SELE
+
+TNFRSF8" title="TNFRSF8">TNFRSF8
+
+
+CCL20" title="CCL20">CCL20
+
+CFD" title="CFD">CFD
+
+FADD" title="FADD">FADD
+
+IFNGR1" title="IFNGR1">IFNGR1
+
+IL8RA" title="IL8RA">IL8RA
+
+MBP" title="MBP">MBP
+
+SLAMF7" title="SLAMF7">SLAMF7
+
+TOLLIP" title="TOLLIP">TOLLIP
+
+
+CD36" title="CD36">CD36
+
+CLEC4E" title="CLEC4E">CLEC4E
+
+FCAR" title="FCAR">FCAR
+
+IGF2R" title="IGF2R">IGF2R
+
+IL8RB" title="IL8RB">IL8RB
+
+NCF4" title="NCF4">NCF4
+
+SOCS3" title="SOCS3">SOCS3
+
+TP53" title="TP53">TP53
+
+
+CD40LG" title="CD40LG">CD40LG
+
+CR1" title="CR1">CR1
+
+FN1" title="FN1">FN1
+
+IL12A" title="IL12A">IL12A
+
+ITGA2B" title="ITGA2B">ITGA2B
+
+NFATC3" title="NFATC3">NFATC3
+
+TAL1" title="TAL1">TAL1
+
+TRAF1" title="TRAF1">TRAF1
+
+
+CD55" title="CD55">CD55
+
+CRADD" title="CRADD">CRADD
+
+FOXP3" title="FOXP3">FOXP3
+
+IL15" title="IL15">IL15
+
+ITGA4" title="ITGA4">ITGA4
+
+NOTCH1" title="NOTCH1">NOTCH1
+
+TAPBP" title="TAPBP">TAPBP
+
+TRAF2" title="TRAF2">TRAF2
+
+
+CD7" title="CD7">CD7
+
+CTSC" title="CTSC">CTSC
+
+HAMP" title="HAMP">HAMP
+
+IL16" title="IL16">IL16
+
+ITGB1" title="ITGB1">ITGB1
+
+PDGFRB" title="PDGFRB">PDGFRB
+
+TFRC" title="TFRC">TFRC
+
+TRAF3" title="TRAF3">TRAF3
+
+
+CD79A" title="CD79A">CD79A
+
+CTSG" title="CTSG">CTSG
+
+
+
+
+
+
+
+
+Genes with Priority Score of 8
+
+
+ABCB1" title="ABCB1">ABCB1
+
+CCL4" title="CCL4">CCL4
+
+CD81" title="CD81">CD81
+
+DEFB4" title="DEFB4">DEFB4
+
+IL12RB1" title="IL12RB1">IL12RB1
+
+KLRB1" title="KLRB1">KLRB1
+
+NFATC1" title="NFATC1">NFATC1
+
+SH2D1A" title="SH2D1A">SH2D1A
+
+
+ABL1" title="ABL1">ABL1
+
+CCR6" title="CCR6">CCR6
+
+CD8B" title="CD8B">CD8B
+
+EBI2" title="EBI2">EBI2
+
+IL13RA1" title="IL13RA1">IL13RA1
+
+KLRC1" title="KLRC1">KLRC1
+
+NFATC2" title="NFATC2">NFATC2
+
+SIGIRR" title="SIGIRR">SIGIRR
+
+
+AICDA" title="AICDA">AICDA
+
+CCR8" title="CCR8">CCR8
+
+CD9" title="CD9">CD9
+
+ENTPD1" title="ENTPD1">ENTPD1
+
+IL17A" title="IL17A">IL17A
+
+KLRD1" title="KLRD1">KLRD1
+
+NFIL3" title="NFIL3">NFIL3
+
+SLAMF1" title="SLAMF1">SLAMF1
+
+
+ARHGDIB" title="ARHGDIB">ARHGDIB
+
+CCRL1" title="CCRL1">CCRL1
+
+CD96" title="CD96">CD96
+
+FCER1A" title="FCER1A">FCER1A
+
+IL17B" title="IL17B">IL17B
+
+LAIR1" title="LAIR1">LAIR1
+
+NFKB2" title="NFKB2">NFKB2
+
+SOCS1" title="SOCS1">SOCS1
+
+
+ATM" title="ATM">ATM
+
+CD164" title="CD164">CD164
+
+CD99" title="CD99">CD99
+
+FCER1G" title="FCER1G">FCER1G
+
+IL18RAP" title="IL18RAP">IL18RAP
+
+LIF" title="LIF">LIF
+
+NOS2A" title="NOS2A">NOS2A
+
+SRC" title="SRC">SRC
+
+
+BCAP31" title="BCAP31">BCAP31
+
+CD1A" title="CD1A">CD1A
+
+CDH5" title="CDH5">CDH5
+
+FCGR2A" title="FCGR2A">FCGR2A
+
+IL1A" title="IL1A">IL1A
+
+LILRB2" title="LILRB2">LILRB2
+
+PDCD1" title="PDCD1">PDCD1
+
+STAT4" title="STAT4">STAT4
+
+
+BCL3" title="BCL3">BCL3
+
+CD2" title="CD2">CD2
+
+CDKN1A" title="CDKN1A">CDKN1A
+
+FCGR3B" title="FCGR3B">FCGR3B
+
+IL1RAP" title="IL1RAP">IL1RAP
+
+LITAF" title="LITAF">LITAF
+
+PDCD2" title="PDCD2">PDCD2
+
+STAT5A" title="STAT5A">STAT5A
+
+
+BTK" title="BTK">BTK
+
+CD209" title="CD209">CD209
+
+CEACAM6" title="CEACAM6">CEACAM6
+
+FCGRT" title="FCGRT">FCGRT
+
+IL1RL1" title="IL1RL1">IL1RL1
+
+LTA" title="LTA">LTA
+
+PDGFB" title="PDGFB">PDGFB
+
+SYK" title="SYK">SYK
+
+
+C1QB" title="C1QB">C1QB
+
+CD22" title="CD22">CD22
+
+CFI" title="CFI">CFI
+
+FKBP5" title="FKBP5">FKBP5
+
+IL21" title="IL21">IL21
+
+LTB4R" title="LTB4R">LTB4R
+
+PLAU" title="PLAU">PLAU
+
+TAP1" title="TAP1">TAP1
+
+
+C1S" title="C1S">C1S
+
+CD244" title="CD244">CD244
+
+CFP" title="CFP">CFP
+
+GNLY" title="GNLY">GNLY
+
+IL21R" title="IL21R">IL21R
+
+LTB4R2" title="LTB4R2">LTB4R2
+
+PLAUR" title="PLAUR">PLAUR
+
+TAP2" title="TAP2">TAP2
+
+
+C2" title="C2">C2
+
+CD247" title="CD247">CD247
+
+CIITA" title="CIITA">CIITA
+
+GP1BB" title="GP1BB">GP1BB
+
+IL23A" title="IL23A">IL23A
+
+LTBR" title="LTBR">LTBR
+
+PML" title="PML">PML
+
+TNFAIP6" title="TNFAIP6">TNFAIP6
+
+
+C4BPA" title="C4BPA">C4BPA
+
+CD27" title="CD27">CD27
+
+CISH" title="CISH">CISH
+
+GPI" title="GPI">GPI
+
+IL2RB" title="IL2RB">IL2RB
+
+LTF" title="LTF">LTF
+
+PRF1" title="PRF1">PRF1
+
+TNFRSF10C" title="TNFRSF10C">TNFRSF10C
+
+
+C6" title="C6">C6
+
+CD34" title="CD34">CD34
+
+CLEC4A" title="CLEC4A">CLEC4A
+
+GZMB" title="GZMB">GZMB
+
+IL3" title="IL3">IL3
+
+LY96" title="LY96">LY96
+
+PRKCD" title="PRKCD">PRKCD
+
+TNFRSF13B" title="TNFRSF13B">TNFRSF13B
+
+
+C7" title="C7">C7
+
+CD3D" title="CD3D">CD3D
+
+CLEC5A" title="CLEC5A">CLEC5A
+
+HFE" title="HFE">HFE
+
+IL8" title="IL8">IL8
+
+MAP4K1" title="MAP4K1">MAP4K1
+
+PSMB10" title="PSMB10">PSMB10
+
+TNFRSF13C" title="TNFRSF13C">TNFRSF13C
+
+
+C8A" title="C8A">C8A
+
+CD3E" title="CD3E">CD3E
+
+CMKLR1" title="CMKLR1">CMKLR1
+
+HLA-DOB" title="HLA-DOB">HLA-DOB
+
+ILF3" title="ILF3">ILF3
+
+MAP4K2" title="MAP4K2">MAP4K2
+
+PSMB7" title="PSMB7">PSMB7
+
+TNFRSF14" title="TNFRSF14">TNFRSF14
+
+
+C8B" title="C8B">C8B
+
+CD3EAP" title="CD3EAP">CD3EAP
+
+CR2" title="CR2">CR2
+
+HLA-DRB1" title="HLA-DRB1">HLA-DRB1
+
+IRAK2" title="IRAK2">IRAK2
+
+MAPK11" title="MAPK11">MAPK11
+
+PSMB9" title="PSMB9">PSMB9
+
+TNFRSF17" title="TNFRSF17">TNFRSF17
+
+
+C8G" title="C8G">C8G
+
+CD40" title="CD40">CD40
+
+CSF1" title="CSF1">CSF1
+
+HLA-DRB3" title="HLA-DRB3">HLA-DRB3
+
+IRF3" title="IRF3">IRF3
+
+MARCO" title="MARCO">MARCO
+
+PSMC2" title="PSMC2">PSMC2
+
+TNFRSF4" title="TNFRSF4">TNFRSF4
+
+
+CAMP" title="CAMP">CAMP
+
+CD46" title="CD46">CD46
+
+CSF2" title="CSF2">CSF2
+
+ICAM2" title="ICAM2">ICAM2
+
+IRF8" title="IRF8">IRF8
+
+MASP1" title="MASP1">MASP1
+
+PSMD7" title="PSMD7">PSMD7
+
+TNFSF10" title="TNFSF10">TNFSF10
+
+
+CCBP2" title="CCBP2">CCBP2
+
+CD48" title="CD48">CD48
+
+CSF2RB" title="CSF2RB">CSF2RB
+
+ICOS" title="ICOS">ICOS
+
+ITGA5" title="ITGA5">ITGA5
+
+MIF" title="MIF">MIF
+
+PTAFR" title="PTAFR">PTAFR
+
+TNFSF12" title="TNFSF12">TNFSF12
+
+
+CCL11" title="CCL11">CCL11
+
+CD5" title="CD5">CD5
+
+CSF3R" title="CSF3R">CSF3R
+
+IFI16" title="IFI16">IFI16
+
+ITGA6" title="ITGA6">ITGA6
+
+MME" title="MME">MME
+
+PTGS2" title="PTGS2">PTGS2
+
+TNFSF13B" title="TNFSF13B">TNFSF13B
+
+
+CCL15" title="CCL15">CCL15
+
+CD53" title="CD53">CD53
+
+CTNNB1" title="CTNNB1">CTNNB1
+
+IFI35" title="IFI35">IFI35
+
+ITGAL" title="ITGAL">ITGAL
+
+MR1" title="MR1">MR1
+
+PTK2" title="PTK2">PTK2
+
+TRAF4" title="TRAF4">TRAF4
+
+
+CCL16" title="CCL16">CCL16
+
+CD58" title="CD58">CD58
+
+CX3CL1" title="CX3CL1">CX3CL1
+
+IFIT2" title="IFIT2">IFIT2
+
+JAK2" title="JAK2">JAK2
+
+MSR1" title="MSR1">MSR1
+
+PTPN22" title="PTPN22">PTPN22
+
+VTN" title="VTN">VTN
+
+
+CCL18" title="CCL18">CCL18
+
+CD59" title="CD59">CD59
+
+CXCL1" title="CXCL1">CXCL1
+
+IFITM1" title="IFITM1">IFITM1
+
+JAK3" title="JAK3">JAK3
+
+MX1" title="MX1">MX1
+
+PTPN6" title="PTPN6">PTPN6
+
+XCL1" title="XCL1">XCL1
+
+
+CCL19" title="CCL19">CCL19
+
+CD6" title="CD6">CD6
+
+CXCL13" title="CXCL13">CXCL13
+
+IL10RA" title="IL10RA">IL10RA
+
+KIR2DL1" title="KIR2DL1">KIR2DL1
+
+NCAM1" title="NCAM1">NCAM1
+
+SELL" title="SELL">SELL
+
+XCR1" title="XCR1">XCR1
+
+
+CCL22" title="CCL22">CCL22
+
+CD80" title="CD80">CD80
+
+DEFB103A" title="DEFB103A">DEFB103A
+
+IL11RA" title="IL11RA">IL11RA
+
+KIT" title="KIT">KIT
+
+NCR1" title="NCR1">NCR1
+
+SELPLG" title="SELPLG">SELPLG
+
+ZEB1" title="ZEB1">ZEB1
+
+
+CCL3" title="CCL3">CCL3
+
+
+
+
+
+
+
+
+
+
+
+Genes with Priority Score of 7
+
+
+A2M" title="A2M">A2M
+
+CCL8" title="CCL8">CCL8
+
+CLEC2B" title="CLEC2B">CLEC2B
+
+GP1BA" title="GP1BA">GP1BA
+
+IL1F9" title="IL1F9">IL1F9
+
+JUN" title="JUN">JUN
+
+NCR2" title="NCR2">NCR2
+
+SEMA4D" title="SEMA4D">SEMA4D
+
+
+ABCF1" title="ABCF1">ABCF1
+
+CCND1" title="CCND1">CCND1
+
+CLEC4M" title="CLEC4M">CLEC4M
+
+GP9" title="GP9">GP9
+
+IL1RAPL1" title="IL1RAPL1">IL1RAPL1
+
+KEL" title="KEL">KEL
+
+NFKBIB" title="NFKBIB">NFKBIB
+
+SEMA7A" title="SEMA7A">SEMA7A
+
+
+ADAM10" title="ADAM10">ADAM10
+
+CCR1" title="CCR1">CCR1
+
+CLEC7A" title="CLEC7A">CLEC7A
+
+GYPA" title="GYPA">GYPA
+
+IL1RAPL2" title="IL1RAPL2">IL1RAPL2
+
+KIR2DL2" title="KIR2DL2">KIR2DL2
+
+NFKBIZ" title="NFKBIZ">NFKBIZ
+
+SFTPD" title="SFTPD">SFTPD
+
+
+ADAM17" title="ADAM17">ADAM17
+
+CCR4" title="CCR4">CCR4
+
+CNR2" title="CNR2">CNR2
+
+GYPB" title="GYPB">GYPB
+
+IL1RL2" title="IL1RL2">IL1RL2
+
+KIR2DL3" title="KIR2DL3">KIR2DL3
+
+NOD2" title="NOD2">NOD2
+
+SIGLEC5" title="SIGLEC5">SIGLEC5
+
+
+ADAR" title="ADAR">ADAR
+
+CCR5" title="CCR5">CCR5
+
+CR1L" title="CR1L">CR1L
+
+GYPC" title="GYPC">GYPC
+
+IL20" title="IL20">IL20
+
+KIR2DL4" title="KIR2DL4">KIR2DL4
+
+NT5E" title="NT5E">NT5E
+
+SIGLEC6" title="SIGLEC6">SIGLEC6
+
+
+AHR" title="AHR">AHR
+
+CD109" title="CD109">CD109
+
+CREBBP" title="CREBBP">CREBBP
+
+GZMM" title="GZMM">GZMM
+
+IL20RA" title="IL20RA">IL20RA
+
+KIR2DS1" title="KIR2DS1">KIR2DS1
+
+OLR1" title="OLR1">OLR1
+
+SLC3A2" title="SLC3A2">SLC3A2
+
+
+AKT1" title="AKT1">AKT1
+
+CD151" title="CD151">CD151
+
+CRLF2" title="CRLF2">CRLF2
+
+HDAC1" title="HDAC1">HDAC1
+
+IL22" title="IL22">IL22
+
+KIR2DS2" title="KIR2DS2">KIR2DS2
+
+PAFAH1B2" title="PAFAH1B2">PAFAH1B2
+
+SLC4A1" title="SLC4A1">SLC4A1
+
+
+ALCAM" title="ALCAM">ALCAM
+
+CD160" title="CD160">CD160
+
+CRP" title="CRP">CRP
+
+HLA-DOA" title="HLA-DOA">HLA-DOA
+
+IL23R" title="IL23R">IL23R
+
+KIR2DS4" title="KIR2DS4">KIR2DS4
+
+PAFAH1B3" title="PAFAH1B3">PAFAH1B3
+
+SOCS4" title="SOCS4">SOCS4
+
+
+APC" title="APC">APC
+
+CD163" title="CD163">CD163
+
+CSF2RA" title="CSF2RA">CSF2RA
+
+HLA-DRB5" title="HLA-DRB5">HLA-DRB5
+
+IL24" title="IL24">IL24
+
+KIR3DL1" title="KIR3DL1">KIR3DL1
+
+PDCD1LG2" title="PDCD1LG2">PDCD1LG2
+
+SOD2" title="SOD2">SOD2
+
+
+ARTS-1" title="ARTS-1">ARTS-1
+
+CD177" title="CD177">CD177
+
+CSF3" title="CSF3">CSF3
+
+HLA-E" title="HLA-E">HLA-E
+
+IL25" title="IL25">IL25
+
+KIR3DL2" title="KIR3DL2">KIR3DL2
+
+PF4" title="PF4">PF4
+
+SPN" title="SPN">SPN
+
+
+AVPR1A" title="AVPR1A">AVPR1A
+
+CD180" title="CD180">CD180
+
+CXCL11" title="CXCL11">CXCL11
+
+HLA-F" title="HLA-F">HLA-F
+
+IL26" title="IL26">IL26
+
+KLRC2" title="KLRC2">KLRC2
+
+PLA2G4A" title="PLA2G4A">PLA2G4A
+
+SQSTM1" title="SQSTM1">SQSTM1
+
+
+BAG4" title="BAG4">BAG4
+
+CD19" title="CD19">CD19
+
+CXCL14" title="CXCL14">CXCL14
+
+HRH2" title="HRH2">HRH2
+
+IL27" title="IL27">IL27
+
+LAG3" title="LAG3">LAG3
+
+PPARD" title="PPARD">PPARD
+
+TBK1" title="TBK1">TBK1
+
+
+BATF" title="BATF">BATF
+
+CD1B" title="CD1B">CD1B
+
+CXCL16" title="CXCL16">CXCL16
+
+HRH4" title="HRH4">HRH4
+
+IL27RA" title="IL27RA">IL27RA
+
+LAT" title="LAT">LAT
+
+PPBP" title="PPBP">PPBP
+
+TBX21" title="TBX21">TBX21
+
+
+BCAM" title="BCAM">BCAM
+
+CD1C" title="CD1C">CD1C
+
+CXCL3" title="CXCL3">CXCL3
+
+ICAM3" title="ICAM3">ICAM3
+
+IL28A" title="IL28A">IL28A
+
+LEPR" title="LEPR">LEPR
+
+PPIA" title="PPIA">PPIA
+
+TCF3" title="TCF3">TCF3
+
+
+BCL6" title="BCL6">BCL6
+
+CD1E" title="CD1E">CD1E
+
+CXCL5" title="CXCL5">CXCL5
+
+ICOSLG" title="ICOSLG">ICOSLG
+
+IL28B" title="IL28B">IL28B
+
+LGALS1" title="LGALS1">LGALS1
+
+PRKCA" title="PRKCA">PRKCA
+
+TCF7L2" title="TCF7L2">TCF7L2
+
+
+BIRC3" title="BIRC3">BIRC3
+
+CD207" title="CD207">CD207
+
+CXCL6" title="CXCL6">CXCL6
+
+IFI27" title="IFI27">IFI27
+
+IL28RA" title="IL28RA">IL28RA
+
+LILRA1" title="LILRA1">LILRA1
+
+PRNP" title="PRNP">PRNP
+
+TCIRG1" title="TCIRG1">TCIRG1
+
+
+BSG" title="BSG">BSG
+
+CD226" title="CD226">CD226
+
+CXCL9" title="CXCL9">CXCL9
+
+IFIT1" title="IFIT1">IFIT1
+
+IL29" title="IL29">IL29
+
+LILRA2" title="LILRA2">LILRA2
+
+PROCR" title="PROCR">PROCR
+
+TGFA" title="TGFA">TGFA
+
+
+BTLA" title="BTLA">BTLA
+
+CD274" title="CD274">CD274
+
+CXCR7" title="CXCR7">CXCR7
+
+IFNA1" title="IFNA1">IFNA1
+
+IL3RA" title="IL3RA">IL3RA
+
+LILRA3" title="LILRA3">LILRA3
+
+PRSS16" title="PRSS16">PRSS16
+
+THBS1" title="THBS1">THBS1
+
+
+C1QC" title="C1QC">C1QC
+
+CD2AP" title="CD2AP">CD2AP
+
+DAP" title="DAP">DAP
+
+IFNA2" title="IFNA2">IFNA2
+
+IL4I1" title="IL4I1">IL4I1
+
+LILRB4" title="LILRB4">LILRB4
+
+PSMC1" title="PSMC1">PSMC1
+
+TLR7" title="TLR7">TLR7
+
+
+C1QTNF5" title="C1QTNF5">C1QTNF5
+
+CD300LF" title="CD300LF">CD300LF
+
+DAXX" title="DAXX">DAXX
+
+IFNA4" title="IFNA4">IFNA4
+
+IL5RA" title="IL5RA">IL5RA
+
+LILRB5" title="LILRB5">LILRB5
+
+PSMC3" title="PSMC3">PSMC3
+
+TNFAIP3" title="TNFAIP3">TNFAIP3
+
+
+C1RL" title="C1RL">C1RL
+
+CD33" title="CD33">CD33
+
+DEFA1" title="DEFA1">DEFA1
+
+IFNA8" title="IFNA8">IFNA8
+
+IL9" title="IL9">IL9
+
+LRP1" title="LRP1">LRP1
+
+PSMD1" title="PSMD1">PSMD1
+
+TNFRSF10A" title="TNFRSF10A">TNFRSF10A
+
+
+C4BPB" title="C4BPB">C4BPB
+
+CD37" title="CD37">CD37
+
+DEFA4" title="DEFA4">DEFA4
+
+IGF2" title="IGF2">IGF2
+
+IL9R" title="IL9R">IL9R
+
+LTB" title="LTB">LTB
+
+PSMD12" title="PSMD12">PSMD12
+
+TNFRSF10B" title="TNFRSF10B">TNFRSF10B
+
+
+C5AR1" title="C5AR1">C5AR1
+
+CD38" title="CD38">CD38
+
+DEFA5" title="DEFA5">DEFA5
+
+IL10RB" title="IL10RB">IL10RB
+
+ILF2" title="ILF2">ILF2
+
+LY86" title="LY86">LY86
+
+PSME1" title="PSME1">PSME1
+
+TNFRSF10D" title="TNFRSF10D">TNFRSF10D
+
+
+CASP6" title="CASP6">CASP6
+
+CD3G" title="CD3G">CD3G
+
+DEFA6" title="DEFA6">DEFA6
+
+IL11" title="IL11">IL11
+
+IRAK1BP1" title="IRAK1BP1">IRAK1BP1
+
+LY9" title="LY9">LY9
+
+PSME2" title="PSME2">PSME2
+
+TNFRSF18" title="TNFRSF18">TNFRSF18
+
+
+CASP7" title="CASP7">CASP7
+
+CD47" title="CD47">CD47
+
+EBF1" title="EBF1">EBF1
+
+IL12RB2" title="IL12RB2">IL12RB2
+
+IRAK3" title="IRAK3">IRAK3
+
+MAP2K1" title="MAP2K1">MAP2K1
+
+PSME3" title="PSME3">PSME3
+
+TNFRSF9" title="TNFRSF9">TNFRSF9
+
+
+CASP8AP2" title="CASP8AP2">CASP8AP2
+
+CD52" title="CD52">CD52
+
+EBF2" title="EBF2">EBF2
+
+IL13RA2" title="IL13RA2">IL13RA2
+
+IRAK4" title="IRAK4">IRAK4
+
+MAP3K5" title="MAP3K5">MAP3K5
+
+PSMF1" title="PSMF1">PSMF1
+
+TNFSF14" title="TNFSF14">TNFSF14
+
+
+CBL" title="CBL">CBL
+
+CD5L" title="CD5L">CD5L
+
+EDN1" title="EDN1">EDN1
+
+IL15RA" title="IL15RA">IL15RA
+
+IRF2" title="IRF2">IRF2
+
+MAP3K7" title="MAP3K7">MAP3K7
+
+PTGER4" title="PTGER4">PTGER4
+
+TNFSF4" title="TNFSF4">TNFSF4
+
+
+CCL1" title="CCL1">CCL1
+
+CD63" title="CD63">CD63
+
+EGFR" title="EGFR">EGFR
+
+IL17C" title="IL17C">IL17C
+
+IRF5" title="IRF5">IRF5
+
+MAP4K4" title="MAP4K4">MAP4K4
+
+PTK2B" title="PTK2B">PTK2B
+
+TNFSF8" title="TNFSF8">TNFSF8
+
+
+CCL13" title="CCL13">CCL13
+
+CD68" title="CD68">CD68
+
+ELA2" title="ELA2">ELA2
+
+IL17D" title="IL17D">IL17D
+
+IRF7" title="IRF7">IRF7
+
+MAPK3" title="MAPK3">MAPK3
+
+PVRL1" title="PVRL1">PVRL1
+
+TRADD" title="TRADD">TRADD
+
+
+CCL14" title="CCL14">CCL14
+
+CD69" title="CD69">CD69
+
+ENG" title="ENG">ENG
+
+IL17F" title="IL17F">IL17F
+
+ISGF3G" title="ISGF3G">ISGF3G
+
+MEFV" title="MEFV">MEFV
+
+RAF1" title="RAF1">RAF1
+
+TRPC4AP" title="TRPC4AP">TRPC4AP
+
+
+CCL17" title="CCL17">CCL17
+
+CD72" title="CD72">CD72
+
+EPO" title="EPO">EPO
+
+IL17RA" title="IL17RA">IL17RA
+
+ITGA1" title="ITGA1">ITGA1
+
+MICA" title="MICA">MICA
+
+RFX1" title="RFX1">RFX1
+
+TTRAP" title="TTRAP">TTRAP
+
+
+CCL21" title="CCL21">CCL21
+
+CD84" title="CD84">CD84
+
+EPX" title="EPX">EPX
+
+IL17RB" title="IL17RB">IL17RB
+
+ITGA2" title="ITGA2">ITGA2
+
+MICB" title="MICB">MICB
+
+RHAG" title="RHAG">RHAG
+
+TYK2" title="TYK2">TYK2
+
+
+CCL23" title="CCL23">CCL23
+
+CDH1" title="CDH1">CDH1
+
+F3" title="F3">F3
+
+IL17RD" title="IL17RD">IL17RD
+
+ITGA3" title="ITGA3">ITGA3
+
+MLL" title="MLL">MLL
+
+RHCE" title="RHCE">RHCE
+
+ULBP1" title="ULBP1">ULBP1
+
+
+CCL24" title="CCL24">CCL24
+
+CEACAM5" title="CEACAM5">CEACAM5
+
+FASLG" title="FASLG">FASLG
+
+IL18BP" title="IL18BP">IL18BP
+
+ITGAD" title="ITGAD">ITGAD
+
+MPL" title="MPL">MPL
+
+RHD" title="RHD">RHD
+
+VAV1" title="VAV1">VAV1
+
+
+CCL25" title="CCL25">CCL25
+
+CEBPB" title="CEBPB">CEBPB
+
+FCER2" title="FCER2">FCER2
+
+IL19" title="IL19">IL19
+
+ITGAE" title="ITGAE">ITGAE
+
+MPO" title="MPO">MPO
+
+RIPK1" title="RIPK1">RIPK1
+
+VEGFA" title="VEGFA">VEGFA
+
+
+CCL26" title="CCL26">CCL26
+
+CFHR1" title="CFHR1">CFHR1
+
+FCGR2C" title="FCGR2C">FCGR2C
+
+IL1F5" title="IL1F5">IL1F5
+
+ITGAV" title="ITGAV">ITGAV
+
+MRC1" title="MRC1">MRC1
+
+S100A8" title="S100A8">S100A8
+
+VPREB1" title="VPREB1">VPREB1
+
+
+CCL27" title="CCL27">CCL27
+
+CFLAR" title="CFLAR">CFLAR
+
+FOS" title="FOS">FOS
+
+IL1F6" title="IL1F6">IL1F6
+
+ITGB3" title="ITGB3">ITGB3
+
+MST1R" title="MST1R">MST1R
+
+SCARB1" title="SCARB1">SCARB1
+
+XBP1" title="XBP1">XBP1
+
+
+CCL28" title="CCL28">CCL28
+
+CKLF" title="CKLF">CKLF
+
+FUT3" title="FUT3">FUT3
+
+IL1F7" title="IL1F7">IL1F7
+
+ITGB4" title="ITGB4">ITGB4
+
+MYC" title="MYC">MYC
+
+SCYE1" title="SCYE1">SCYE1
+
+XCL2" title="XCL2">XCL2
+
+
+CCL3L1" title="CCL3L1">CCL3L1
+
+CLEC10A" title="CLEC10A">CLEC10A
+
+FUT4" title="FUT4">FUT4
+
+IL1F8" title="IL1F8">IL1F8
+
+ITK" title="ITK">ITK
+
+NCF2" title="NCF2">NCF2
+
+SELP" title="SELP">SELP
+
+XRCC5" title="XRCC5">XRCC5
+
+
+CCL7" title="CCL7">CCL7
+
+
+
+
+
+
+
+
+
+
+
+Genes with Priority Score of 6
+
+
+ACVR1B" title="ACVR1B">ACVR1B
+
+CANX" title="CANX">CANX
+
+CYSLTR1" title="CYSLTR1">CYSLTR1
+
+GATA3" title="GATA3">GATA3
+
+ISG20" title="ISG20">ISG20
+
+NCR3" title="NCR3">NCR3
+
+PSMB6" title="PSMB6">PSMB6
+
+SLAMF6" title="SLAMF6">SLAMF6
+
+
+ADAM8" title="ADAM8">ADAM8
+
+CASP5" title="CASP5">CASP5
+
+DAP3" title="DAP3">DAP3
+
+GBP1" title="GBP1">GBP1
+
+ITGB7" title="ITGB7">ITGB7
+
+NFKBIE" title="NFKBIE">NFKBIE
+
+PSMC4" title="PSMC4">PSMC4
+
+SLC7A5" title="SLC7A5">SLC7A5
+
+
+ADH5" title="ADH5">ADH5
+
+CBLB" title="CBLB">CBLB
+
+DAPK1" title="DAPK1">DAPK1
+
+GNE" title="GNE">GNE
+
+JUND" title="JUND">JUND
+
+NKTR" title="NKTR">NKTR
+
+PSMC5" title="PSMC5">PSMC5
+
+SOCS2" title="SOCS2">SOCS2
+
+
+ADORA2A" title="ADORA2A">ADORA2A
+
+CCR10" title="CCR10">CCR10
+
+DARC" title="DARC">DARC
+
+GP5" title="GP5">GP5
+
+KIR2DL5A" title="KIR2DL5A">KIR2DL5A
+
+NPPA" title="NPPA">NPPA
+
+PSMC6" title="PSMC6">PSMC6
+
+SOD1" title="SOD1">SOD1
+
+
+AFP" title="AFP">AFP
+
+CCR3" title="CCR3">CCR3
+
+DDR1" title="DDR1">DDR1
+
+GZMH" title="GZMH">GZMH
+
+KIR2DS5" title="KIR2DS5">KIR2DS5
+
+NR3C1" title="NR3C1">NR3C1
+
+PSMD13" title="PSMD13">PSMD13
+
+SP110" title="SP110">SP110
+
+
+ALOX5AP" title="ALOX5AP">ALOX5AP
+
+CCR9" title="CCR9">CCR9
+
+DEFA3" title="DEFA3">DEFA3
+
+HLA-DQB2" title="HLA-DQB2">HLA-DQB2
+
+KIR3DL3" title="KIR3DL3">KIR3DL3
+
+NRP1" title="NRP1">NRP1
+
+PSMD2" title="PSMD2">PSMD2
+
+SPARC" title="SPARC">SPARC
+
+
+AMBP" title="AMBP">AMBP
+
+CD200" title="CD200">CD200
+
+DEFB105A" title="DEFB105A">DEFB105A
+
+HLA-DRB4" title="HLA-DRB4">HLA-DRB4
+
+KITLG" title="KITLG">KITLG
+
+NTF3" title="NTF3">NTF3
+
+PSMD3" title="PSMD3">PSMD3
+
+SPI1" title="SPI1">SPI1
+
+
+APOE" title="APOE">APOE
+
+CD200R1" title="CD200R1">CD200R1
+
+DEFB106A" title="DEFB106A">DEFB106A
+
+HLA-G" title="HLA-G">HLA-G
+
+KLRF1" title="KLRF1">KLRF1
+
+OPRD1" title="OPRD1">OPRD1
+
+PTEN" title="PTEN">PTEN
+
+ST6GAL1" title="ST6GAL1">ST6GAL1
+
+
+ATRN" title="ATRN">ATRN
+
+CD276" title="CD276">CD276
+
+DEFB119" title="DEFB119">DEFB119
+
+HRAS" title="HRAS">HRAS
+
+KLRK1" title="KLRK1">KLRK1
+
+ORM1" title="ORM1">ORM1
+
+PTGES" title="PTGES">PTGES
+
+TCF1" title="TCF1">TCF1
+
+
+BAD" title="BAD">BAD
+
+CD300E" title="CD300E">CD300E
+
+DEFB123" title="DEFB123">DEFB123
+
+HRB" title="HRB">HRB
+
+KRT1" title="KRT1">KRT1
+
+ORM2" title="ORM2">ORM2
+
+PTGS1" title="PTGS1">PTGS1
+
+TGFB2" title="TGFB2">TGFB2
+
+
+BAT2" title="BAT2">BAT2
+
+CD320" title="CD320">CD320
+
+DMBT1" title="DMBT1">DMBT1
+
+HSP90B1" title="HSP90B1">HSP90B1
+
+LAIR2" title="LAIR2">LAIR2
+
+OSM" title="OSM">OSM
+
+PTN" title="PTN">PTN
+
+TGFBR1" title="TGFBR1">TGFBR1
+
+
+BCL11A" title="BCL11A">BCL11A
+
+CD70" title="CD70">CD70
+
+DST" title="DST">DST
+
+HTR6" title="HTR6">HTR6
+
+LEF1" title="LEF1">LEF1
+
+PAFAH2" title="PAFAH2">PAFAH2
+
+PTPRCAP" title="PTPRCAP">PTPRCAP
+
+TIA1" title="TIA1">TIA1
+
+
+BCL2A1" title="BCL2A1">BCL2A1
+
+CD93" title="CD93">CD93
+
+EBI3" title="EBI3">EBI3
+
+ICAM4" title="ICAM4">ICAM4
+
+LILRA4" title="LILRA4">LILRA4
+
+PAX3" title="PAX3">PAX3
+
+PTX3" title="PTX3">PTX3
+
+TIAF1" title="TIAF1">TIAF1
+
+
+BDKRB1" title="BDKRB1">BDKRB1
+
+CD99L2" title="CD99L2">CD99L2
+
+EFEMP2" title="EFEMP2">EFEMP2
+
+IER3" title="IER3">IER3
+
+LILRA5" title="LILRA5">LILRA5
+
+PAX5" title="PAX5">PAX5
+
+PYCARD" title="PYCARD">PYCARD
+
+TIAM1" title="TIAM1">TIAM1
+
+
+BLM" title="BLM">BLM
+
+CDC42" title="CDC42">CDC42
+
+ELMO1" title="ELMO1">ELMO1
+
+IFIT3" title="IFIT3">IFIT3
+
+LY6G5B" title="LY6G5B">LY6G5B
+
+PDGFA" title="PDGFA">PDGFA
+
+RAC2" title="RAC2">RAC2
+
+TLR10" title="TLR10">TLR10
+
+
+BLNK" title="BLNK">BLNK
+
+CDKN1B" title="CDKN1B">CDKN1B
+
+EP300" title="EP300">EP300
+
+IFNA21" title="IFNA21">IFNA21
+
+LY75" title="LY75">LY75
+
+PDGFRA" title="PDGFRA">PDGFRA
+
+RAG2" title="RAG2">RAG2
+
+TLR6" title="TLR6">TLR6
+
+
+BLR1" title="BLR1">BLR1
+
+CDKN2A" title="CDKN2A">CDKN2A
+
+ERBB2" title="ERBB2">ERBB2
+
+IFNGR2" title="IFNGR2">IFNGR2
+
+LYN" title="LYN">LYN
+
+POU2AF1" title="POU2AF1">POU2AF1
+
+RB1" title="RB1">RB1
+
+TLR8" title="TLR8">TLR8
+
+
+BMP4" title="BMP4">BMP4
+
+CEACAM8" title="CEACAM8">CEACAM8
+
+ERBB3" title="ERBB3">ERBB3
+
+IGF1R" title="IGF1R">IGF1R
+
+MAP2K2" title="MAP2K2">MAP2K2
+
+POU2F2" title="POU2F2">POU2F2
+
+RFX5" title="RFX5">RFX5
+
+TNC" title="TNC">TNC
+
+
+BRAF" title="BRAF">BRAF
+
+CFHR2" title="CFHR2">CFHR2
+
+ERBB4" title="ERBB4">ERBB4
+
+IGJ" title="IGJ">IGJ
+
+MAP3K1" title="MAP3K1">MAP3K1
+
+PPARGC1A" title="PPARGC1A">PPARGC1A
+
+RGS1" title="RGS1">RGS1
+
+TNFAIP1" title="TNFAIP1">TNFAIP1
+
+
+BRCA1" title="BRCA1">BRCA1
+
+CFHR3" title="CFHR3">CFHR3
+
+ETS1" title="ETS1">ETS1
+
+IGSF2" title="IGSF2">IGSF2
+
+MAP3K4" title="MAP3K4">MAP3K4
+
+PRKRA" title="PRKRA">PRKRA
+
+S100A12" title="S100A12">S100A12
+
+TNFRSF25" title="TNFRSF25">TNFRSF25
+
+
+C1QL1" title="C1QL1">C1QL1
+
+CFHR4" title="CFHR4">CFHR4
+
+F5" title="F5">F5
+
+IK" title="IK">IK
+
+MAPK13" title="MAPK13">MAPK13
+
+PROM1" title="PROM1">PROM1
+
+S100B" title="S100B">S100B
+
+TNIP1" title="TNIP1">TNIP1
+
+
+C1QTNF2" title="C1QTNF2">C1QTNF2
+
+CRISP3" title="CRISP3">CRISP3
+
+FCN2" title="FCN2">FCN2
+
+IL17RC" title="IL17RC">IL17RC
+
+MAPK8" title="MAPK8">MAPK8
+
+PSCDBP" title="PSCDBP">PSCDBP
+
+SCARF1" title="SCARF1">SCARF1
+
+TRAIP" title="TRAIP">TRAIP
+
+
+C1QTNF3" title="C1QTNF3">C1QTNF3
+
+CRLF1" title="CRLF1">CRLF1
+
+FCRLA" title="FCRLA">FCRLA
+
+IL17RE" title="IL17RE">IL17RE
+
+MAPKAPK2" title="MAPKAPK2">MAPKAPK2
+
+PSMA1" title="PSMA1">PSMA1
+
+SECTM1" title="SECTM1">SECTM1
+
+TRAT1" title="TRAT1">TRAT1
+
+
+C1QTNF4" title="C1QTNF4">C1QTNF4
+
+CSNK2A2" title="CSNK2A2">CSNK2A2
+
+FOXN1" title="FOXN1">FOXN1
+
+IL1F10" title="IL1F10">IL1F10
+
+MCAM" title="MCAM">MCAM
+
+PSMA5" title="PSMA5">PSMA5
+
+SET" title="SET">SET
+
+TREM1" title="TREM1">TREM1
+
+
+C1QTNF6" title="C1QTNF6">C1QTNF6
+
+CSNK2B" title="CSNK2B">CSNK2B
+
+FPR1" title="FPR1">FPR1
+
+IL22RA1" title="IL22RA1">IL22RA1
+
+MKNK1" title="MKNK1">MKNK1
+
+PSMA6" title="PSMA6">PSMA6
+
+SH2B2" title="SH2B2">SH2B2
+
+TUBB" title="TUBB">TUBB
+
+
+C1QTNF7" title="C1QTNF7">C1QTNF7
+
+CTGF" title="CTGF">CTGF
+
+FPRL1" title="FPRL1">FPRL1
+
+IL22RA2" title="IL22RA2">IL22RA2
+
+MLLT6" title="MLLT6">MLLT6
+
+PSMA7" title="PSMA7">PSMA7
+
+SIGLEC1" title="SIGLEC1">SIGLEC1
+
+TXNDC1" title="TXNDC1">TXNDC1
+
+
+C3AR1" title="C3AR1">C3AR1
+
+CTSH" title="CTSH">CTSH
+
+FTH1" title="FTH1">FTH1
+
+IL31RA" title="IL31RA">IL31RA
+
+MMP9" title="MMP9">MMP9
+
+PSMB2" title="PSMB2">PSMB2
+
+SIGLEC9" title="SIGLEC9">SIGLEC9
+
+UBD" title="UBD">UBD
+
+
+CAMK2A" title="CAMK2A">CAMK2A
+
+CTSW" title="CTSW">CTSW
+
+FYB" title="FYB">FYB
+
+IRF4" title="IRF4">IRF4
+
+MT2A" title="MT2A">MT2A
+
+PSMB3" title="PSMB3">PSMB3
+
+SIVA1" title="SIVA1">SIVA1
+
+YWHAG" title="YWHAG">YWHAG
+
+
+CAMK2G" title="CAMK2G">CAMK2G
+
+CXCR6" title="CXCR6">CXCR6
+
+GADD45B" title="GADD45B">GADD45B
+
+ISG15" title="ISG15">ISG15
+
+
+
+
+
+
+Genes with Priority Score of 5
+
+
+AATK" title="AATK">AATK
+
+BCL7C" title="BCL7C">BCL7C
+
+ELMO3" title="ELMO3">ELMO3
+
+IFITM3" title="IFITM3">IFITM3
+
+LRP5" title="LRP5">LRP5
+
+NFATC4" title="NFATC4">NFATC4
+
+PSMA3" title="PSMA3">PSMA3
+
+SLC14A1" title="SLC14A1">SLC14A1
+
+
+ABO" title="ABO">ABO
+
+BDKRB2" title="BDKRB2">BDKRB2
+
+EMR1" title="EMR1">EMR1
+
+IFNA10" title="IFNA10">IFNA10
+
+LST1" title="LST1">LST1
+
+NFKBIL1" title="NFKBIL1">NFKBIL1
+
+PSMB1" title="PSMB1">PSMB1
+
+SLPI" title="SLPI">SLPI
+
+
+ACOX1" title="ACOX1">ACOX1
+
+BIRC4" title="BIRC4">BIRC4
+
+EPOR" title="EPOR">EPOR
+
+IFNA13" title="IFNA13">IFNA13
+
+LTK" title="LTK">LTK
+
+NFKBIL2" title="NFKBIL2">NFKBIL2
+
+PSMB4" title="PSMB4">PSMB4
+
+SOCS5" title="SOCS5">SOCS5
+
+
+ACVR1" title="ACVR1">ACVR1
+
+BIRC5" title="BIRC5">BIRC5
+
+ERMAP" title="ERMAP">ERMAP
+
+IFNA14" title="IFNA14">IFNA14
+
+LY6D" title="LY6D">LY6D
+
+NINJ1" title="NINJ1">NINJ1
+
+PSMD11" title="PSMD11">PSMD11
+
+SRF" title="SRF">SRF
+
+
+ACVRL1" title="ACVRL1">ACVRL1
+
+BLK" title="BLK">BLK
+
+F11R" title="F11R">F11R
+
+IFNA16" title="IFNA16">IFNA16
+
+LY6E" title="LY6E">LY6E
+
+NINJ2" title="NINJ2">NINJ2
+
+PSMD5" title="PSMD5">PSMD5
+
+TACR1" title="TACR1">TACR1
+
+
+ADAMDEC1" title="ADAMDEC1">ADAMDEC1
+
+BMP2" title="BMP2">BMP2
+
+F2" title="F2">F2
+
+IFNA17" title="IFNA17">IFNA17
+
+LY6G6D" title="LY6G6D">LY6G6D
+
+NKG7" title="NKG7">NKG7
+
+PSMD8" title="PSMD8">PSMD8
+
+TAL2" title="TAL2">TAL2
+
+
+ADORA1" title="ADORA1">ADORA1
+
+BMP5" title="BMP5">BMP5
+
+F2R" title="F2R">F2R
+
+IFNA5" title="IFNA5">IFNA5
+
+LY6H" title="LY6H">LY6H
+
+NLRP1" title="NLRP1">NLRP1
+
+PSMD9" title="PSMD9">PSMD9
+
+TBXAS1" title="TBXAS1">TBXAS1
+
+
+ADORA3" title="ADORA3">ADORA3
+
+BMP7" title="BMP7">BMP7
+
+F7" title="F7">F7
+
+IFNA6" title="IFNA6">IFNA6
+
+LYZ" title="LYZ">LYZ
+
+NLRP12" title="NLRP12">NLRP12
+
+PSTPIP1" title="PSTPIP1">PSTPIP1
+
+TCF4" title="TCF4">TCF4
+
+
+ADRB2" title="ADRB2">ADRB2
+
+BMPR1A" title="BMPR1A">BMPR1A
+
+F8" title="F8">F8
+
+IFNA7" title="IFNA7">IFNA7
+
+MADCAM1" title="MADCAM1">MADCAM1
+
+NOD1" title="NOD1">NOD1
+
+PTCRA" title="PTCRA">PTCRA
+
+TCL1A" title="TCL1A">TCL1A
+
+
+AGER" title="AGER">AGER
+
+BTNL2" title="BTNL2">BTNL2
+
+FANCC" title="FANCC">FANCC
+
+IFNB3" title="IFNB3">IFNB3
+
+MAEA" title="MAEA">MAEA
+
+NODAL" title="NODAL">NODAL
+
+PTGFRN" title="PTGFRN">PTGFRN
+
+TEC" title="TEC">TEC
+
+
+AHSG" title="AHSG">AHSG
+
+CASP14" title="CASP14">CASP14
+
+FANCD2" title="FANCD2">FANCD2
+
+IFNW1" title="IFNW1">IFNW1
+
+MAP2K3" title="MAP2K3">MAP2K3
+
+NOTCH2" title="NOTCH2">NOTCH2
+
+PTGIR" title="PTGIR">PTGIR
+
+TGFBI" title="TGFBI">TGFBI
+
+
+AIF1" title="AIF1">AIF1
+
+CBFA2T3" title="CBFA2T3">CBFA2T3
+
+FCAMR" title="FCAMR">FCAMR
+
+IGF1" title="IGF1">IGF1
+
+MAP2K6" title="MAP2K6">MAP2K6
+
+NR4A2" title="NR4A2">NR4A2
+
+PTH" title="PTH">PTH
+
+THBD" title="THBD">THBD
+
+
+AKT2" title="AKT2">AKT2
+
+CCL4L2" title="CCL4L2">CCL4L2
+
+FCN1" title="FCN1">FCN1
+
+IGFBP3" title="IGFBP3">IGFBP3
+
+MAP3K10" title="MAP3K10">MAP3K10
+
+NRP2" title="NRP2">NRP2
+
+PTPN1" title="PTPN1">PTPN1
+
+THPO" title="THPO">THPO
+
+
+ALB" title="ALB">ALB
+
+CD300A" title="CD300A">CD300A
+
+FGFR1" title="FGFR1">FGFR1
+
+IGLL1" title="IGLL1">IGLL1
+
+MAP3K12" title="MAP3K12">MAP3K12
+
+PAFAH1B1" title="PAFAH1B1">PAFAH1B1
+
+PTPN13" title="PTPN13">PTPN13
+
+THRA" title="THRA">THRA
+
+
+ALK" title="ALK">ALK
+
+CD300LB" title="CD300LB">CD300LB
+
+FGFR2" title="FGFR2">FGFR2
+
+IGSF8" title="IGSF8">IGSF8
+
+MAP3K14" title="MAP3K14">MAP3K14
+
+PAK1" title="PAK1">PAK1
+
+PTPRJ" title="PTPRJ">PTPRJ
+
+TIAL1" title="TIAL1">TIAL1
+
+
+ALOX15" title="ALOX15">ALOX15
+
+CD302" title="CD302">CD302
+
+FGG" title="FGG">FGG
+
+INDO" title="INDO">INDO
+
+MAP3K2" title="MAP3K2">MAP3K2
+
+PAX7" title="PAX7">PAX7
+
+PVR" title="PVR">PVR
+
+TNFAIP2" title="TNFAIP2">TNFAIP2
+
+
+ALOX5" title="ALOX5">ALOX5
+
+CDH2" title="CDH2">CDH2
+
+FKBP1A" title="FKBP1A">FKBP1A
+
+INPP5D" title="INPP5D">INPP5D
+
+MAP3K3" title="MAP3K3">MAP3K3
+
+PBX1" title="PBX1">PBX1
+
+PVRL2" title="PVRL2">PVRL2
+
+TNFRSF11B" title="TNFRSF11B">TNFRSF11B
+
+
+ALPL" title="ALPL">ALPL
+
+CDH23" title="CDH23">CDH23
+
+FKBP2" title="FKBP2">FKBP2
+
+INS" title="INS">INS
+
+MAP3K7IP1" title="MAP3K7IP1">MAP3K7IP1
+
+PBX2" title="PBX2">PBX2
+
+RAC1" title="RAC1">RAC1
+
+TNFRSF12A" title="TNFRSF12A">TNFRSF12A
+
+
+ANPEP" title="ANPEP">ANPEP
+
+CEACAM3" title="CEACAM3">CEACAM3
+
+FKBP3" title="FKBP3">FKBP3
+
+IRF6" title="IRF6">IRF6
+
+MAP3K7IP2" title="MAP3K7IP2">MAP3K7IP2
+
+PBX3" title="PBX3">PBX3
+
+RALBP1" title="RALBP1">RALBP1
+
+TNFRSF6B" title="TNFRSF6B">TNFRSF6B
+
+
+ANXA1" title="ANXA1">ANXA1
+
+CEBPA" title="CEBPA">CEBPA
+
+FKBP6" title="FKBP6">FKBP6
+
+ISLR" title="ISLR">ISLR
+
+MAP3K8" title="MAP3K8">MAP3K8
+
+PCID1" title="PCID1">PCID1
+
+REL" title="REL">REL
+
+TNFSF13" title="TNFSF13">TNFSF13
+
+
+ANXA11" title="ANXA11">ANXA11
+
+CER1" title="CER1">CER1
+
+FKBP8" title="FKBP8">FKBP8
+
+ITCH" title="ITCH">ITCH
+
+MAPK10" title="MAPK10">MAPK10
+
+PCNA" title="PCNA">PCNA
+
+RET" title="RET">RET
+
+TNFSF15" title="TNFSF15">TNFSF15
+
+
+AOX1" title="AOX1">AOX1
+
+CFTR" title="CFTR">CFTR
+
+FLT3" title="FLT3">FLT3
+
+ITFG1" title="ITFG1">ITFG1
+
+MAPK12" title="MAPK12">MAPK12
+
+PDCD4" title="PDCD4">PDCD4
+
+RFXANK" title="RFXANK">RFXANK
+
+TNFSF9" title="TNFSF9">TNFSF9
+
+
+AQP9" title="AQP9">AQP9
+
+CHL1" title="CHL1">CHL1
+
+FLT3LG" title="FLT3LG">FLT3LG
+
+ITGA7" title="ITGA7">ITGA7
+
+MAPKAPK5" title="MAPKAPK5">MAPKAPK5
+
+PDCD7" title="PDCD7">PDCD7
+
+RFXAP" title="RFXAP">RFXAP
+
+TNIP2" title="TNIP2">TNIP2
+
+
+ARF6" title="ARF6">ARF6
+
+CLC" title="CLC">CLC
+
+FPRL2" title="FPRL2">FPRL2
+
+ITGB1BP1" title="ITGB1BP1">ITGB1BP1
+
+MARCKS" title="MARCKS">MARCKS
+
+PDGFC" title="PDGFC">PDGFC
+
+RHBG" title="RHBG">RHBG
+
+TREM2" title="TREM2">TREM2
+
+
+ART4" title="ART4">ART4
+
+CLCF1" title="CLCF1">CLCF1
+
+GATA2" title="GATA2">GATA2
+
+ITGB4BP" title="ITGB4BP">ITGB4BP
+
+MCL1" title="MCL1">MCL1
+
+PF4V1" title="PF4V1">PF4V1
+
+RHCG" title="RHCG">RHCG
+
+TRIAD3" title="TRIAD3">TRIAD3
+
+
+ATF1" title="ATF1">ATF1
+
+CLEC4C" title="CLEC4C">CLEC4C
+
+GNB2L1" title="GNB2L1">GNB2L1
+
+JAM2" title="JAM2">JAM2
+
+MEF2C" title="MEF2C">MEF2C
+
+PGDS" title="PGDS">PGDS
+
+RIPK2" title="RIPK2">RIPK2
+
+TSTA3" title="TSTA3">TSTA3
+
+
+ATF4" title="ATF4">ATF4
+
+CLEC4D" title="CLEC4D">CLEC4D
+
+GPR65" title="GPR65">GPR65
+
+KCNQ1" title="KCNQ1">KCNQ1
+
+MFI2" title="MFI2">MFI2
+
+PGLYRP1" title="PGLYRP1">PGLYRP1
+
+RIPK3" title="RIPK3">RIPK3
+
+TXLNA" title="TXLNA">TXLNA
+
+
+AXIN1" title="AXIN1">AXIN1
+
+CMA1" title="CMA1">CMA1
+
+GSK3B" title="GSK3B">GSK3B
+
+KDR" title="KDR">KDR
+
+MITF" title="MITF">MITF
+
+PGLYRP2" title="PGLYRP2">PGLYRP2
+
+RPS6KA2" title="RPS6KA2">RPS6KA2
+
+TYROBP" title="TYROBP">TYROBP
+
+
+AZGP1" title="AZGP1">AZGP1
+
+CMTM1" title="CMTM1">CMTM1
+
+GYPE" title="GYPE">GYPE
+
+KIR2DS3" title="KIR2DS3">KIR2DS3
+
+MKNK2" title="MKNK2">MKNK2
+
+PIGR" title="PIGR">PIGR
+
+RPS6KA4" title="RPS6KA4">RPS6KA4
+
+ULBP2" title="ULBP2">ULBP2
+
+
+AZU1" title="AZU1">AZU1
+
+CMTM6" title="CMTM6">CMTM6
+
+HABP2" title="HABP2">HABP2
+
+KLKB1" title="KLKB1">KLKB1
+
+MLLT1" title="MLLT1">MLLT1
+
+PIK3R1" title="PIK3R1">PIK3R1
+
+RPS6KA5" title="RPS6KA5">RPS6KA5
+
+ULBP3" title="ULBP3">ULBP3
+
+
+BAG1" title="BAG1">BAG1
+
+CMTM7" title="CMTM7">CMTM7
+
+HAS1" title="HAS1">HAS1
+
+KLRA1" title="KLRA1">KLRA1
+
+MLLT3" title="MLLT3">MLLT3
+
+PIK3R2" title="PIK3R2">PIK3R2
+
+RUNX1" title="RUNX1">RUNX1
+
+VWF" title="VWF">VWF
+
+
+BAG3" title="BAG3">BAG3
+
+COLEC12" title="COLEC12">COLEC12
+
+HHEX" title="HHEX">HHEX
+
+KLRC3" title="KLRC3">KLRC3
+
+MLLT4" title="MLLT4">MLLT4
+
+PLA2G2A" title="PLA2G2A">PLA2G2A
+
+S100A9" title="S100A9">S100A9
+
+WAS" title="WAS">WAS
+
+
+BAK1" title="BAK1">BAK1
+
+CRTAM" title="CRTAM">CRTAM
+
+HM13" title="HM13">HM13
+
+KLRC4" title="KLRC4">KLRC4
+
+MNDA" title="MNDA">MNDA
+
+PLA2G2D" title="PLA2G2D">PLA2G2D
+
+SART3" title="SART3">SART3
+
+WASF1" title="WASF1">WASF1
+
+
+BANK1" title="BANK1">BANK1
+
+CTSK" title="CTSK">CTSK
+
+HMCN1" title="HMCN1">HMCN1
+
+KLRG1" title="KLRG1">KLRG1
+
+MS4A2" title="MS4A2">MS4A2
+
+PLA2G4C" title="PLA2G4C">PLA2G4C
+
+SCARB2" title="SCARB2">SCARB2
+
+WASF3" title="WASF3">WASF3
+
+
+BAT1" title="BAT1">BAT1
+
+CUL4A" title="CUL4A">CUL4A
+
+HMMR" title="HMMR">HMMR
+
+L1CAM" title="L1CAM">L1CAM
+
+MS4A3" title="MS4A3">MS4A3
+
+PLA2G7" title="PLA2G7">PLA2G7
+
+SCGB3A1" title="SCGB3A1">SCGB3A1
+
+WIPF1" title="WIPF1">WIPF1
+
+
+BAT3" title="BAT3">BAT3
+
+CUTL1" title="CUTL1">CUTL1
+
+HNF4A" title="HNF4A">HNF4A
+
+LAMB1" title="LAMB1">LAMB1
+
+MS4A5" title="MS4A5">MS4A5
+
+PLXNC1" title="PLXNC1">PLXNC1
+
+SDF2" title="SDF2">SDF2
+
+WNT3A" title="WNT3A">WNT3A
+
+
+BAT4" title="BAT4">BAT4
+
+DEFB118" title="DEFB118">DEFB118
+
+HNMT" title="HNMT">HNMT
+
+LAMP2" title="LAMP2">LAMP2
+
+MST1" title="MST1">MST1
+
+PPARBP" title="PPARBP">PPARBP
+
+SDF2L1" title="SDF2L1">SDF2L1
+
+WWP1" title="WWP1">WWP1
+
+
+BAT5" title="BAT5">BAT5
+
+DGKD" title="DGKD">DGKD
+
+HRH1" title="HRH1">HRH1
+
+LBP" title="LBP">LBP
+
+MUC1" title="MUC1">MUC1
+
+PRDX2" title="PRDX2">PRDX2
+
+SEMA3A" title="SEMA3A">SEMA3A
+
+XG" title="XG">XG
+
+
+BCAR1" title="BCAR1">BCAR1
+
+DLG1" title="DLG1">DLG1
+
+HSPA1A" title="HSPA1A">HSPA1A
+
+LEP" title="LEP">LEP
+
+MUC5AC" title="MUC5AC">MUC5AC
+
+PRKACA" title="PRKACA">PRKACA
+
+SERPINA3" title="SERPINA3">SERPINA3
+
+XK" title="XK">XK
+
+
+BCL10" title="BCL10">BCL10
+
+DOCK1" title="DOCK1">DOCK1
+
+HSPA1B" title="HSPA1B">HSPA1B
+
+LGALS3" title="LGALS3">LGALS3
+
+MUC5B" title="MUC5B">MUC5B
+
+PRKCB1" title="PRKCB1">PRKCB1
+
+SIGLEC11" title="SIGLEC11">SIGLEC11
+
+XRCC6" title="XRCC6">XRCC6
+
+
+BCL11B" title="BCL11B">BCL11B
+
+EDA" title="EDA">EDA
+
+ICAM5" title="ICAM5">ICAM5
+
+LGALS3BP" title="LGALS3BP">LGALS3BP
+
+MXI1" title="MXI1">MXI1
+
+PRKRIR" title="PRKRIR">PRKRIR
+
+SIGLEC7" title="SIGLEC7">SIGLEC7
+
+YARS" title="YARS">YARS
+
+
+BCL2L1" title="BCL2L1">BCL2L1
+
+EGR1" title="EGR1">EGR1
+
+IFI30" title="IFI30">IFI30
+
+LGALS4" title="LGALS4">LGALS4
+
+MYOD1" title="MYOD1">MYOD1
+
+PROC" title="PROC">PROC
+
+SIGLEC8" title="SIGLEC8">SIGLEC8
+
+YWHAH" title="YWHAH">YWHAH
+
+
+BCL2L10" title="BCL2L10">BCL2L10
+
+EIF2AK2" title="EIF2AK2">EIF2AK2
+
+IFI44" title="IFI44">IFI44
+
+LGALS8" title="LGALS8">LGALS8
+
+NBN" title="NBN">NBN
+
+PRTN3" title="PRTN3">PRTN3
+
+SIRPA" title="SIRPA">SIRPA
+
+YWHAQ" title="YWHAQ">YWHAQ
+
+
+BCL2L2" title="BCL2L2">BCL2L2
+
+ELK1" title="ELK1">ELK1
+
+IFIH1" title="IFIH1">IFIH1
+
+LIFR" title="LIFR">LIFR
+
+NCKAP1" title="NCKAP1">NCKAP1
+
+PSEN1" title="PSEN1">PSEN1
+
+SIRT1" title="SIRT1">SIRT1
+
+YWHAZ" title="YWHAZ">YWHAZ
+
+
+BCL7A" title="BCL7A">BCL7A
+
+ELK4" title="ELK4">ELK4
+
+IFIT5" title="IFIT5">IFIT5
+
+LILRA6" title="LILRA6">LILRA6
+
+NCOA6" title="NCOA6">NCOA6
+
+PSMA2" title="PSMA2">PSMA2
+
+SLA2" title="SLA2">SLA2
+
+YY1" title="YY1">YY1
+
+
+BCL7B" title="BCL7B">BCL7B
+
+ELMO2" title="ELMO2">ELMO2
+
+IFITM2" title="IFITM2">IFITM2
+
+
+
+
+
+
+
+
+Genes with Priority Score of 4
+
+
+CCL3L3" title="CCL3L3">CCL3L3
+
+CD200R2" title="CD200R2">CD200R2
+
+CD300C" title="CD300C">CD300C
+
+DEFB104A" title="DEFB104A">DEFB104A
+
+DEFB127" title="DEFB127">DEFB127
+
+IL31" title="IL31">IL31
+
+TGFBR2" title="TGFBR2">TGFBR2
+
+TICAM2" title="TICAM2">TICAM2
+
+
+CCL4L1" title="CCL4L1">CCL4L1
+
+CD248" title="CD248">CD248
+
+CD300LG" title="CD300LG">CD300LG
+
+DEFB125" title="DEFB125">DEFB125
+
+DEFB129" title="DEFB129">DEFB129
+
+SLAMF8" title="SLAMF8">SLAMF8
+
+TGFBR3" title="TGFBR3">TGFBR3
+
+ZFP36" title="ZFP36">ZFP36
+
+
+CD164L2" title="CD164L2">CD164L2
+
+CD2BP2" title="CD2BP2">CD2BP2
+
+CD33L3" title="CD33L3">CD33L3
+
+DEFB126" title="DEFB126">DEFB126
+
+HAX1" title="HAX1">HAX1
+
+TGFB3" title="TGFB3">TGFB3
+
+TICAM1" title="TICAM1">TICAM1

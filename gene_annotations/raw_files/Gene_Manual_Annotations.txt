@@ -1,0 +1,1 @@
+Gene	Alias	Type	Entrez Gene Summary	GSEA specific pathwayIFITM3			"Êinterferon-induced membrane protein that helps confer immunity to influenza A H1N1 virus, West Nile virus, and dengue virus"	TMEM80	Transmembrane Protein 80			

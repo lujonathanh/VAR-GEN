@@ -1,0 +1,5 @@
+Reversal of Insulin Resistance by Leptin	11
+Maturity onset diabetes of the young	25
+Type I diabetes mellitus	44
+Type II diabetes mellitus	47
+Genes involved in Diabetes pathways	133
