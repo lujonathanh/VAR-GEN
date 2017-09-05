@@ -21,7 +21,7 @@ for a high-dimensional gene-expression time series dataset, but is general enoug
 any time series dataset.
 
 # Acknowledgments
-"preprocessing/get_DEG.R" and "preprocessing/compute_sv.R" were written by ![Ian C. McDowell](http://people.duke.edu/~icm10/Blank.html)
+"preprocessing/get_DEG.R" and "preprocessing/compute_sv.R" were written by [Ian C. McDowell](http://people.duke.edu/~icm10/Blank.html)
 
 The code under "gene-dynamical-simulations/ZactX-ZactY_R/" and "gene-dynamical-simulations/ZactXZactY_R/" were largely based on the [granger causality package](https://bitbucket.org/dtyu/granger-causality/wiki/Home) from Dantong Yu.
 

@@ -35,13 +35,22 @@
 
 
 ##
-export DATAFILE=/Users/jlu96/v-causal-snps/data/GeneExpressionData/edgeR-reg-reps-norm/data/final-integration/0mean1var/integration.rep_file_list.txt
-export RANDDATAFILE=/Users/jlu96/v-causal-snps/data/GeneExpressionData/edgeR-reg-reps-norm/data/final-integration/0mean1var/integration.rep_file_list-rand.txt
-export GENEFILE=/Users/jlu96/v-causal-snps/data/GeneExpressionData/edgeR-reg-reps-norm/raw_files/sig_genes_reg_fdr-0.05-all-ensg-cutoff-2-plusGR.txt
-export NROWS=2768      # Rows (i.e. # genes) in your datafile. This is used to determine how to parallelize
-export GENES=integration            #protein-coding
-export NORMALIZATION=0mean1var
+export DATAFILE=/Users/jlu96/v-causal-snps/data/DREAM/data/insilico_size100_1/0mean/reps.txt
+export RANDDATAFILE=/Users/jlu96/v-causal-snps/data/DREAM/data/insilico_size100_1/0mean/reps-rand.txt
+export GENEFILE=/Users/jlu96/v-causal-snps/data/DREAM/data/insilico_size100_1/0mean/genes.txt
+export NROWS=100     # Rows (i.e. # genes) in your datafile. This is used to determine how to parallelize
+export GENES=TEST-OLD-SKLEARN-insilico_size100_1            #protein-coding
+export NORMALIZATION=0mean
 export LOADREPS=1
+
+
+#export DATAFILE=/Users/jlu96/v-causal-snps/data/GeneExpressionData/edgeR-reg-reps-norm/data/final-integration/0mean1var/integration.rep_file_list.txt
+#export RANDDATAFILE=/Users/jlu96/v-causal-snps/data/GeneExpressionData/edgeR-reg-reps-norm/data/final-integration/0mean1var/integration.rep_file_list-rand.txt
+#export GENEFILE=/Users/jlu96/v-causal-snps/data/GeneExpressionData/edgeR-reg-reps-norm/raw_files/sig_genes_reg_fdr-0.05-all-ensg-cutoff-2-plusGR.txt
+#export NROWS=2768      # Rows (i.e. # genes) in your datafile. This is used to determine how to parallelize
+#export GENES=integration            #protein-coding
+#export NORMALIZATION=0mean1var
+#export LOADREPS=1
 
 
 #export DATAFILE=/Users/jlu96/v-causal-snps/data/GeneExpressionData/edgeR-reg-reps-norm/data/final-integration/small_data/integration.rep_file_list.txt
@@ -68,7 +77,7 @@ fi
 
 # Causal params
 export CAUSAL=enet
-export LAG=1
+export LAG=2
 export NULL=g
 
 

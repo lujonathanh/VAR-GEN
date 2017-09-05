@@ -60,6 +60,10 @@ do
 
     rm tmp
 
+    echo "### RAW NETWORK ### "
+    mkdir $OUTDIR/raw-network
+    cp *-union-network.txt $OUTDIR/raw-network
+
     echo "### PLOTS ###"
     cp -r plots $OUTDIR
 

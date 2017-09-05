@@ -270,9 +270,9 @@ def summarize_fdr(matr, filename, fdr, readme_name, matrixname, test=None, lag=N
     sf["Causal Genes"] = len(np.unique(np.where(matr)[0]))
     sf["Effect Genes"] = len(np.unique(np.where(matr)[1]))
     sf["Sig. Edges"] = len(np.where(matr)[0])
-    sf["% Sig. Edges"] = len(np.where(matr)[0]) * 100.0 / (matr.shape[0] * matr.shape[1])
+    sf["% Sig. Edges"] = len(np.where(matr)[0]) * 100.0 / (matr.shape[0] * (matr.shape[0] - 1))
     sf["Total Genes"] = matr.shape[0]
-    sf["Total possible Edges"] = matr.shape[0] * matr.shape[1]
+    sf["Total possible Edges"] = matr.shape[0] * (matr.shape[0] - 1)
 
     if thresh != None:
         if len(thresh) > 1:
